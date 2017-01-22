@@ -1,0 +1,48 @@
+body{
+    text-align:center;
+
+}
+
+h1 {
+font-family:'Segoe Script';
+font-size:10px;
+color:#570657;
+
+}
+
+h2 {
+font-family:sans-serif;
+font-size:28px;
+color:#1b1414;
+font-style:italic;
+font-weight:bolder;
+}
+
+h3 {
+font-family:'Times New Roman', Times, serif;
+font-size:10px;
+}
+
+.banner {
+    margin: auto;
+    background-image: linear-gradient(#fff , #0094ff );
+	color: #000;
+	text-align: center;
+	box-shadow: -10px 10px 10px rgba(0, 0, 0, .7);
+    width:inherit;
+    height:50px;
+    position: fixed;
+	right: 0px;
+	top:;
+	left: 0px;
+	bottom: 0px;
+
+}
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none;   /* Chrome/Safari/Opera */
+  -moz-user-select: none;      /* Firefox */
+  -ms-user-select: none;       /* Internet Explorer/Edge */
+  user-select: none;           /* Non-prefixed version, currently
+                                 not supported by any browser */
+}
